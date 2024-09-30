@@ -1,5 +1,5 @@
 # PerceptionsSubmission
-
+![](https://github.com/rakeshvel/PerceptionsSubmission/blob/main/answer.png)
 # Methodology
 
 * I first prepped the image by filtering the red color.
